@@ -1,6 +1,6 @@
 # Site
-title:              Datnv9 - Davian Phoenix
-bio:                'My name is Nguyen Van Dat, programmer, entrepreneur and something of a dreamer'
+title:              Datnv9
+bio:                "I'm Dat, programmer, entrepreneur and something of a dreamer"
 description:        "This is my tiny blog. I'll write something there."
 reading_time:       true
 words_per_minute:   200
@@ -44,13 +44,13 @@ github-url:         datnv9
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          datnv9
+#instagram:          datnv9
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
